@@ -13,3 +13,8 @@ public class HolaMundo {
     }
 }
 ```
+
+| Columna 1 | Columna 2 | Columna 3 |
+| :--- | :---: | ---: |
+| Izquierda | Centro | Derecha |
+| Texto A | Texto B | Texto C |
